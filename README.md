@@ -6,6 +6,9 @@
 ### 240311
 **Type** [Lec03](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec03) <br/>
 **연산자** [Lec04](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec04)
-### 240318
+### 240319
 **제어문** [Lec05](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec05) <br/>
 **반복문** [Lec06](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec06)
+### 240320
+**예외** [Lec07](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec07) <br/>
+**함수** [Lec08](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec08) 
