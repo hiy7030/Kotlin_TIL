@@ -13,7 +13,7 @@ class KotlinLec01Main {
         // 코틀린은 변수의 값을 초기화 하지 않으면 컴파일 에러가 발생한다.
         // var num -> 에러 발생, 타입 추론 불가능
         var num : Long  // 에러 발생 X
-        println(num) // 에러 발생, 변수 초기화 필요
+//        println(num) // 에러 발생, 변수 초기화 필요
 
         num = 10L
         println(num) // 정상 실행
@@ -31,7 +31,7 @@ class KotlinLec01Main {
          * 코틀린은 기본적으로 변수에 null값을 허용하지 않고 null이 들어갈 수 있는 변수를 다르게 간주하여 사용한다.
          **/
         var nullTest: Long = 10L
-        nullTest = null // 에러 발생
+//        nullTest = null // 에러 발생
 
         // null을 허용하는 경우
         var nullTest2: Long? = 10L   // ?를 타입에 명시하므로서 아예 다른 타입으로 간주된다.
