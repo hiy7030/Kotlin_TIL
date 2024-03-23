@@ -3,7 +3,6 @@ package Lec09
 import java.lang.IllegalArgumentException
 
 fun main() {
-    Person()
 }
 
 class Person (
