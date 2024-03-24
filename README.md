@@ -14,3 +14,7 @@
 **함수** [Lec08](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec08) 
 ### 240321
 **클래스** [Lec09](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec09)
+### 240324
+**상속** [Lec10](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec10) <br/>
+**접근 제어** [Lec11](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec11) <br/>
+**object 키워드** [Lec12](https://github.com/hiy7030/Kotlin_TIL/tree/main/src/main/kotlin/Lec12)
