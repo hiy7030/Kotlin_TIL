@@ -2,13 +2,13 @@ package Lec12
 
 // Kotlin에서의 익명 클래스
 fun main() {
-    moveSomething(object : Movable {
+    moveSomething(object : Movable { // java에선 new 키워드 사용, kotlin에선 object 키워드 사용
         override fun move() {
-            TODO("Not yet implemented")
+            println("move method")
         }
 
         override fun fly() {
-            TODO("Not yet implemented")
+            println("fly method")
         }
 
     })

@@ -1,6 +1,6 @@
 package Lec10;
 
-public class JavaPenguin extends JavaAnimal implements JavaSwimable, JavaFlyable{
+public final class JavaPenguin extends JavaAnimal implements JavaSwimable, JavaFlyable{
     private final int wingCount;
 
     public JavaPenguin(String species) {

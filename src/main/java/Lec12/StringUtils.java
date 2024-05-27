@@ -1,4 +1,4 @@
-package Lec11;
+package Lec12;
 
 public abstract class StringUtils {
     private StringUtils() {}

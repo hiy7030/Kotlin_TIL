@@ -1,4 +1,7 @@
 package Lec12;
 
-public class Moveable {
+public interface Movable {
+    void move();
+
+    void fly();
 }
